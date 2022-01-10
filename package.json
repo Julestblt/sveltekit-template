@@ -14,6 +14,7 @@
 		"test:unit:watch": "yarn run test:unit -- --watch"
 	},
 	"devDependencies": {
+		"@bahmutov/cy-rollup": "^2.0.0",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@testing-library/jest-dom": "^5.16.1",
