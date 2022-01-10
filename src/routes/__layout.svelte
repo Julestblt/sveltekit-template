@@ -1,6 +1,9 @@
 <script lang="ts">
+	import { initI18n } from '$lib/i18n';
 	import Header from '$lib/header/Header.svelte';
 	import '../app.css';
+
+	initI18n();
 </script>
 
 <Header />
