@@ -1,0 +1,9 @@
+{
+	"baseUrl": "http://localhost:3000",
+	"pluginsFile": "cypress/plugins/",
+	"video": false,
+	"experimentalComponentTesting": true,
+	"componentFolder": "cypress/components",
+	"integrationFolder": "cypress/integration",
+	"testFiles": "**/*.test.e2e.ts"
+}
